@@ -28,32 +28,37 @@ const imageAltText = "desktop with books and laptop";
  *
  * An array of objects that will be used to display for your project
  * links section. Below is a sample, update to reflect links you'd like to highlight.
+ * 
+ 
  */
+
+
+
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Real Time Face Filter",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Allows you to somewhat easily create effects for cameras.",
+    url: "https://github.com/aryangulati/Python_Code/blob/master/4.)Dectection/Snapchat%20Filter/real_time_face_filter.py",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Character Predictions",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Probabilistic Model for Natural Language Generation. Hidden Markov model, which is a much-evolved version of the Markov chain.",
+    url: "https://github.com/aryangulati/Character-Based-Language-Model",
   },
   {
-    title: "My Resume Site",
+    title: "Organ Donation System",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "System is to simplify and automate the process of searching the organ in case of emergency and maintain the records of organ donors, recipients & hospitals.",
+    url: "https://github.com/aryangulati/Projects/tree/master/ASP.NET%20Core/Organ%20Donation/LifeLink-master/LifeLink-master",
   },
-  {
-    title: "GitHub Codespaces and github.dev",
-    description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
-  },
+  // {
+  //   title: "GitHub Codespaces and github.dev",
+  //   description:
+  //     "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
+  //   url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+  // },
 ];
 
 const Portfolio = () => {

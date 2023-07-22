@@ -24,19 +24,19 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "I am a CS and ML enthusiast pursuing a Master's in Computer Science with a concentration in Artificial Intelligence from the University of Ottawa, Canada. As an avid learner, my passion lies in exploring Data and Algorithmic approaches. My skills shine in working with numbers, conducting thorough data analysis, and developing effective research strategies. I am constantly captivated by the ever-evolving landscape of AI and technology, staying up to date with the latest research on groundbreaking inventions and advancements. My educational journey has equipped me with a solid foundation in Computer Science, while my experience at Infosys STG allowed me to apply my skills in practical projects and gain valuable insights into real-world software development.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "Artificial Intelligence",
+  "Deep learning",
+  "Machine Learning",
+  "Data Analytics",
+  "Natural language processing",
+  "Problem Solving",
 ];
 
 /**
@@ -45,7 +45,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "Driven by a continuous thirst for knowledge, I am excited to contribute to the exciting world of AI and technology through innovation, research, and problem-solving.";
 
 const About = () => {
   return (
